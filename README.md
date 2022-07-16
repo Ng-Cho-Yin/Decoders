@@ -11,3 +11,7 @@ random_noise
 decoded_noise
 
 <img width="386" alt="螢幕截圖 2022-07-16 下午3 34 13" src="https://user-images.githubusercontent.com/56172862/179345321-5487b0dc-81fe-4213-a220-102bd3976739.png">
+
+the decoder learns to draw a digit "8"
+
+DATA: https://www.kaggle.com/competitions/digit-recognizer/data
