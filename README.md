@@ -14,4 +14,8 @@ decoded_noise
 
 the decoder learns to draw a digit "8"
 
+![螢幕截圖 2022-07-16 下午3 49 47](https://user-images.githubusercontent.com/56172862/179345782-05ad015e-2e8f-47e9-a97b-9f965ba23f6c.png)
+
+![螢幕截圖 2022-07-16 下午3 50 01](https://user-images.githubusercontent.com/56172862/179345786-7c6a375c-369b-46ed-b76e-1201a97efe35.png)
+
 DATA: https://www.kaggle.com/competitions/digit-recognizer/data
